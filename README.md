@@ -44,6 +44,7 @@ When you pass eight rounds,
 ![x](https://cdn.glitch.global/b5fcb5be-6f8a-4e18-8955-371726d77f79/ezgif.com-gif-maker-2.gif?v=1647732869120)
 
 When you make three mistakes,
+
 ![x](https://cdn.glitch.global/b5fcb5be-6f8a-4e18-8955-371726d77f79/ezgif.com-gif-maker.gif?v=1647732693526)
 
 ## Reflection Questions
