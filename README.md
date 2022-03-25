@@ -40,6 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 When you pass eight rounds,
+
 ![x](https://cdn.glitch.global/b5fcb5be-6f8a-4e18-8955-371726d77f79/ezgif.com-gif-maker-2.gif?v=1647732869120)
 
 When you make three mistakes,
